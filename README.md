@@ -19,4 +19,4 @@ This is a simple command-line based bank management system built in Python. It a
 - Python 3.x
 - Object-Oriented Programming
 
-
+"Made as part of learning Python - beginner-friendly project."
